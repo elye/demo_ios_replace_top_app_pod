@@ -1,0 +1,6 @@
+framework module MyInternal {
+  umbrella header "MyInternal-umbrella.h"
+
+  export *
+  module * { export * }
+}

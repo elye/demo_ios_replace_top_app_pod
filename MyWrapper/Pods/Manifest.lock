@@ -1,0 +1,16 @@
+PODS:
+  - MyInternal (0.0.1)
+
+DEPENDENCIES:
+  - MyInternal (from `../MyInternal`)
+
+EXTERNAL SOURCES:
+  MyInternal:
+    :path: "../MyInternal"
+
+SPEC CHECKSUMS:
+  MyInternal: e683df54efd58388fbd3355e81f3627ef4057603
+
+PODFILE CHECKSUM: fabbe49c982a5bea215b03bd2b2897f755f02b7b
+
+COCOAPODS: 1.10.1

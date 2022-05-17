@@ -1,0 +1,23 @@
+{
+  "name": "MyInternal",
+  "version": "0.0.1",
+  "summary": "A short description of MyInternal.",
+  "description": "simple description",
+  "homepage": "http://EXAMPLE/MyInternal",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Elye": "elye@email.com"
+  },
+  "source": {
+    "git": "http://elye/MyInternal.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "MyInternal/**/*.swift",
+  "resources": "MyInternal/Base.lproj/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+}
